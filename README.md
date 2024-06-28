@@ -1,2 +1,2 @@
 # Lab13
-Contains the lab task solutions for the 13th lab of CSE4302
+Contains the lab task solutions for the 13th lab of CSE4302 in IUT CSE
